@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactBlog/static/css/main.bcbc7c0f.chunk.css",
+    "main.js": "/ReactBlog/static/js/main.964cdbd2.chunk.js",
+    "main.js.map": "/ReactBlog/static/js/main.964cdbd2.chunk.js.map",
+    "runtime-main.js": "/ReactBlog/static/js/runtime-main.e577e6bd.js",
+    "runtime-main.js.map": "/ReactBlog/static/js/runtime-main.e577e6bd.js.map",
+    "static/js/2.a5b43852.chunk.js": "/ReactBlog/static/js/2.a5b43852.chunk.js",
+    "static/js/2.a5b43852.chunk.js.map": "/ReactBlog/static/js/2.a5b43852.chunk.js.map",
+    "static/js/3.295f2fd9.chunk.js": "/ReactBlog/static/js/3.295f2fd9.chunk.js",
+    "static/js/3.295f2fd9.chunk.js.map": "/ReactBlog/static/js/3.295f2fd9.chunk.js.map",
+    "index.html": "/ReactBlog/index.html",
+    "static/css/main.bcbc7c0f.chunk.css.map": "/ReactBlog/static/css/main.bcbc7c0f.chunk.css.map",
+    "static/js/2.a5b43852.chunk.js.LICENSE.txt": "/ReactBlog/static/js/2.a5b43852.chunk.js.LICENSE.txt",
+    "static/media/autumn.435d93cf.jpg": "/ReactBlog/static/media/autumn.435d93cf.jpg",
+    "static/media/beach.06254ecb.jpg": "/ReactBlog/static/media/beach.06254ecb.jpg",
+    "static/media/chocolate.d785a4ff.webp": "/ReactBlog/static/media/chocolate.d785a4ff.webp",
+    "static/media/eclair.ba718f18.webp": "/ReactBlog/static/media/eclair.ba718f18.webp",
+    "static/media/iceland.f47de46c.webp": "/ReactBlog/static/media/iceland.f47de46c.webp",
+    "static/media/notebook.43a1c5b5.jpg": "/ReactBlog/static/media/notebook.43a1c5b5.jpg",
+    "static/media/pancakes.43221892.jpg": "/ReactBlog/static/media/pancakes.43221892.jpg",
+    "static/media/positano.86c8baba.jpg": "/ReactBlog/static/media/positano.86c8baba.jpg",
+    "static/media/snowman.2732887e.webp": "/ReactBlog/static/media/snowman.2732887e.webp",
+    "static/media/summerfield.39871b1d.webp": "/ReactBlog/static/media/summerfield.39871b1d.webp",
+    "static/media/tea.19d0f8f1.jpg": "/ReactBlog/static/media/tea.19d0f8f1.jpg",
+    "static/media/vegetables.6b31c61a.webp": "/ReactBlog/static/media/vegetables.6b31c61a.webp",
+    "static/media/working.2401128e.jpg": "/ReactBlog/static/media/working.2401128e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e577e6bd.js",
+    "static/js/2.a5b43852.chunk.js",
+    "static/css/main.bcbc7c0f.chunk.css",
+    "static/js/main.964cdbd2.chunk.js"
+  ]
+}
