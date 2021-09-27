@@ -7,7 +7,7 @@ const About = () => {
             <p className="hr"></p>
             <h1 id="aboutheading">About Us</h1>
             <div className="row">
-                <img src={summer} className="img-thumbnail rounded mx-auto d-block" alt="summer" />
+                <img src={summer} className="img-thumbnail rounded mx-auto d-block" data-aos="fade-in" alt="summer" />
             </div>   
             <div className="row center">
                 <p>

@@ -42,7 +42,7 @@ const MyBlog = () => {
             </div>
             </div>
             {/* third card */}
-            <div class="card mb-3 my-5 postcards" data-aos="fade-left">
+            <div class="card mb-3 my-5 postcards" data-aos="fade-right">
             <div class="row g-0">
                 <div className="col-md-4">
                     <img src={beach} className="img-fluid rounded-start img1" />
@@ -57,7 +57,7 @@ const MyBlog = () => {
             </div>
             </div>
             {/* fourth card */}
-            <div className="card mb-3 my-5 postcards" data-aos="fade-right">
+            <div className="card mb-3 my-5 postcards" data-aos="fade-left">
             <div className="row g-0">
                 <div className="col-md-4">
                     <img src={tea} className="img-fluid rounded-start img1" />
@@ -72,7 +72,7 @@ const MyBlog = () => {
             </div>
             </div>
             {/* fifth card */}
-            <div className="card mb-3 my-5 postcards" data-aos="fade-left">
+            <div className="card mb-3 my-5 postcards" data-aos="fade-right">
             <div className="row g-0">
                 <div className="col-md-4">
                     <img src={eclair} className="img-fluid rounded-start img1" />
@@ -87,7 +87,7 @@ const MyBlog = () => {
             </div>
             </div>
             {/* sixth card */}
-            <div className="card mb-3 my-5 postcards" data-aos="fade-right">
+            <div className="card mb-3 my-5 postcards" data-aos="fade-left">
             <div className="row g-0">
                 <div className="col-md-4">
                     <img src={snowman} className="img-fluid rounded-start img1" />
